@@ -1,0 +1,9 @@
+.movie-card{
+    margin-left:13%;
+    border:none;
+    color:#555555;
+    cursor:pointer
+}
+.movie-card h3{
+    height:30px;
+}
